@@ -15,6 +15,7 @@
 |452|[ Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[C++](./solutions/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.cpp)|92 ms|
 |529|[ Minesweeper](https://leetcode.com/problems/minesweeper/)|[C++](./solutions/529.%20Minesweeper.cpp)|36 ms|
 |593|[ Valid Square](https://leetcode.com/problems/valid-square/)|[C++](./solutions/593.%20Valid%20Square.cpp)|4 ms|
+|652|[ Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[C++](./solutions/652.%20Find%20Duplicate%20Subtrees.cpp)|28 ms|
 |853|[ Car Fleet](https://leetcode.com/problems/car-fleet/)|[C++](./solutions/853.%20Car%20Fleet.cpp)|44 ms|
 |900|[ RLE Iterator](https://leetcode.com/problems/rle-iterator/)|[C++](./solutions/900.%20RLE%20Iterator.cpp)|4 ms|
 |904|[ Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[C++](./solutions/904.%20Fruit%20Into%20Baskets.cpp)|360 ms|
