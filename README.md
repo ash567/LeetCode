@@ -16,6 +16,7 @@
 |529|[ Minesweeper](https://leetcode.com/problems/minesweeper/)|[C++](./solutions/529.%20Minesweeper.cpp)|36 ms|
 |593|[ Valid Square](https://leetcode.com/problems/valid-square/)|[C++](./solutions/593.%20Valid%20Square.cpp)|4 ms|
 |652|[ Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[C++](./solutions/652.%20Find%20Duplicate%20Subtrees.cpp)|28 ms|
+|792|[ Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|[C++](./solutions/792.%20Number%20of%20Matching%20Subsequences.cpp)|696 ms|
 |834|[ Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)|[C++](./solutions/834.%20Sum%20of%20Distances%20in%20Tree.cpp)|76 ms|
 |853|[ Car Fleet](https://leetcode.com/problems/car-fleet/)|[C++](./solutions/853.%20Car%20Fleet.cpp)|44 ms|
 |900|[ RLE Iterator](https://leetcode.com/problems/rle-iterator/)|[C++](./solutions/900.%20RLE%20Iterator.cpp)|4 ms|
