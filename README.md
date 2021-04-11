@@ -23,6 +23,7 @@
 |900|[ RLE Iterator](https://leetcode.com/problems/rle-iterator/)|[C++](./solutions/900.%20RLE%20Iterator.cpp)|4 ms|
 |904|[ Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[C++](./solutions/904.%20Fruit%20Into%20Baskets.cpp)|360 ms|
 |994|[ Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[C++](./solutions/994.%20Rotting%20Oranges.cpp)|12 ms|
+|1140|[ Stone Game II](https://leetcode.com/problems/stone-game-ii/)|[C++](./solutions/1140.%20Stone%20Game%20II.cpp)|120 ms|
 |1406|[ Stone Game III](https://leetcode.com/problems/stone-game-iii/)|[C++](./solutions/1406.%20Stone%20Game%20III.cpp)|244 ms|
 |1499|[ Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)|[C++](./solutions/1499.%20Max%20Value%20of%20Equation.cpp)|452 ms|
 |1631|[ Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)|[C++](./solutions/1631.%20Path%20With%20Minimum%20Effort.cpp)|324 ms|
