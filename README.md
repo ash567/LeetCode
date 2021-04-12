@@ -8,7 +8,7 @@
 |198|[ House Robber](https://leetcode.com/problems/house-robber/)|[C++](./solutions/198.%20House%20Robber.cpp)|0 ms|
 |209|[ Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C++](./solutions/209.%20Minimum%20Size%20Subarray%20Sum.cpp)|4 ms|
 |213|[ House Robber II](https://leetcode.com/problems/house-robber-ii/)|[C++](./solutions/213.%20House%20Robber%20II.cpp)|0 ms|
-|222|[ Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[C++](./solutions/222.%20Count%20Complete%20Tree%20Nodes.cpp)|32 ms|
+|222|[ Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[C++](./solutions/222.%20Count%20Complete%20Tree%20Nodes.cpp)|24 ms|
 |238|[ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[C++](./solutions/238.%20Product%20of%20Array%20Except%20Self.cpp)|28 ms|
 |315|[ Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[C++](./solutions/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.cpp)|1012 ms|
 |337|[ House Robber III](https://leetcode.com/problems/house-robber-iii/)|[C++](./solutions/337.%20House%20Robber%20III.cpp)|8 ms|
