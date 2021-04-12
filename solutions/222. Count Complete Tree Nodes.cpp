@@ -23,14 +23,18 @@ class Solution {
         else
             return 1 + getRightHieght(root->right);
     }
-​
+    map<int, int> twoPower;
+    
 public:
     int countNodes(TreeNode* root) {
         if(root == NULL)
             return 0;
         int leftHieght = getLeftHieght(root), rightHieght = getRightHieght(root);
-        if(leftHieght == rightHieght)
-            return (pow(2, leftHieght + 1) - 1);
+        if(leftHieght == rightHieght) {
+            if(twoPower.find(leftHieght + 1) == twoPower.end())
+                twoPower[leftHieght + 1] = pow(2, leftHieght + 1) - 1;
+            return twoPower[leftHieght + 1];
+        }
         else 
             return (1 + countNodes(root->left) + countNodes(root->right));
     }
