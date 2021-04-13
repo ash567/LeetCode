@@ -21,6 +21,7 @@
 |722|[ Remove Comments](https://leetcode.com/problems/remove-comments/)|[C++](./solutions/722.%20Remove%20Comments.cpp)|0 ms|
 |792|[ Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|[C++](./solutions/792.%20Number%20of%20Matching%20Subsequences.cpp)|696 ms|
 |834|[ Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)|[C++](./solutions/834.%20Sum%20of%20Distances%20in%20Tree.cpp)|76 ms|
+|837|[ New 21 Game](https://leetcode.com/problems/new-21-game/)|[C++](./solutions/837.%20New%2021%20Game.cpp)|4 ms|
 |853|[ Car Fleet](https://leetcode.com/problems/car-fleet/)|[C++](./solutions/853.%20Car%20Fleet.cpp)|44 ms|
 |900|[ RLE Iterator](https://leetcode.com/problems/rle-iterator/)|[C++](./solutions/900.%20RLE%20Iterator.cpp)|4 ms|
 |904|[ Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[C++](./solutions/904.%20Fruit%20Into%20Baskets.cpp)|360 ms|
