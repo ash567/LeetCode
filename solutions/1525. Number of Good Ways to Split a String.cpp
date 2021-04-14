@@ -1,4 +1,5 @@
 class Solution {
+//     Memory can also be optimized. one set that stores first position of any character S and another that stores the last E. Let s = 0; and e = num of different char in string. for(i = 0 to end - 1) if(s[i] in A) s++; if(s[i] in B) e--; Now if(s == e) add 1 
 public:
     int numSplits(string s) {
         if(s.size() < 2)
