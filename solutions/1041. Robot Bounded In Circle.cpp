@@ -14,7 +14,7 @@ public:
     bool isRobotBounded(string instructions) {
         int x = 0, y = 0;
         int dir = 0;
-        
+//         You can also run it 4 times and find out if it comes to origin.
         for(char c : instructions) {
             if(c == 'G') {
                 x += dirInc[dir].first;
