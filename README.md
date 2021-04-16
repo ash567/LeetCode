@@ -26,6 +26,7 @@
 |900|[ RLE Iterator](https://leetcode.com/problems/rle-iterator/)|[C++](./solutions/900.%20RLE%20Iterator.cpp)|4 ms|
 |904|[ Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[C++](./solutions/904.%20Fruit%20Into%20Baskets.cpp)|360 ms|
 |994|[ Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[C++](./solutions/994.%20Rotting%20Oranges.cpp)|12 ms|
+|1041|[ Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[C++](./solutions/1041.%20Robot%20Bounded%20In%20Circle.cpp)|0 ms|
 |1110|[ Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|[C++](./solutions/1110.%20Delete%20Nodes%20And%20Return%20Forest.cpp)|8 ms|
 |1140|[ Stone Game II](https://leetcode.com/problems/stone-game-ii/)|[C++](./solutions/1140.%20Stone%20Game%20II.cpp)|120 ms|
 |1219|[ Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[C++](./solutions/1219.%20Path%20with%20Maximum%20Gold.cpp)|64 ms|
