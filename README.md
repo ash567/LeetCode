@@ -27,7 +27,7 @@
 |722|[ Remove Comments](https://leetcode.com/problems/remove-comments/)|[C++](./solutions/722.%20Remove%20Comments.cpp)|0 ms|
 |739|[ Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[C++](./solutions/739.%20Daily%20Temperatures.cpp)|52 ms|
 |792|[ Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|[C++](./solutions/792.%20Number%20of%20Matching%20Subsequences.cpp)|696 ms|
-|833|[ Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/)|[C++](./solutions/833.%20Find%20And%20Replace%20in%20String.cpp)|0 ms|
+|833|[ Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/)|[C++](./solutions/833.%20Find%20And%20Replace%20in%20String.cpp)|4 ms|
 |834|[ Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)|[C++](./solutions/834.%20Sum%20of%20Distances%20in%20Tree.cpp)|76 ms|
 |837|[ New 21 Game](https://leetcode.com/problems/new-21-game/)|[C++](./solutions/837.%20New%2021%20Game.cpp)|4 ms|
 |849|[ Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[C++](./solutions/849.%20Maximize%20Distance%20to%20Closest%20Person.cpp)|8 ms|
