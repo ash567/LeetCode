@@ -50,4 +50,4 @@
 |1664|[ Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/)|[C++](./solutions/1664.%20Ways%20to%20Make%20a%20Fair%20Array.cpp)|148 ms|
 |1706|[ Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)|[C++](./solutions/1706.%20Where%20Will%20the%20Ball%20Fall.cpp)|24 ms|
 |1776|[ Car Fleet II](https://leetcode.com/problems/car-fleet-ii/)|[C++](./solutions/1776.%20Car%20Fleet%20II.cpp)|852 ms|
-|1834|[ Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/)|[C++](./solutions/1834.%20Single-Threaded%20CPU.cpp)|420 ms|
+|1834|[ Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/)|[Python3](./solutions/1834.%20Single-Threaded%20CPU.py)|2000 ms|
