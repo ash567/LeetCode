@@ -33,6 +33,7 @@
 |837|[ New 21 Game](https://leetcode.com/problems/new-21-game/)|[C++](./solutions/837.%20New%2021%20Game.cpp)|4 ms|
 |849|[ Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[C++](./solutions/849.%20Maximize%20Distance%20to%20Closest%20Person.cpp)|8 ms|
 |853|[ Car Fleet](https://leetcode.com/problems/car-fleet/)|[C++](./solutions/853.%20Car%20Fleet.cpp)|44 ms|
+|857|[ Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)|[C++](./solutions/857.%20Minimum%20Cost%20to%20Hire%20K%20Workers.cpp)|88 ms|
 |871|[ Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)|[C++](./solutions/871.%20Minimum%20Number%20of%20Refueling%20Stops.cpp)|16 ms|
 |900|[ RLE Iterator](https://leetcode.com/problems/rle-iterator/)|[C++](./solutions/900.%20RLE%20Iterator.cpp)|4 ms|
 |904|[ Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[C++](./solutions/904.%20Fruit%20Into%20Baskets.cpp)|360 ms|
