@@ -9,11 +9,10 @@ public:
                 int prevCount = (amCount[i].find(d) != amCount[i].end())? prevCount = amCount[i][d]:0;
                 if(prevCount > 0)
                     continue;
-                int jdCount = (amCount[j].find(d) != amCount[j].end())? amCount[j][d]:0;
-                amCount[i][d] = max(1 + jdCount, prevCount);
+                amCount[i][d] = max(1 + ((amCount[j].find(d) != amCount[j].end())? amCount[j][d]:0), prevCount);
                 maxAmLen = max(maxAmLen, amCount[i][d] + 1);
             }
-        }
+        }
         return maxAmLen;
     }
 };
