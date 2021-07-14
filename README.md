@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
+|2|[ Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](./solutions/2.%20Add%20Two%20Numbers.cpp)|28 ms|
 |31|[ Next Permutation](https://leetcode.com/problems/next-permutation/)|[Python3](./solutions/31.%20Next%20Permutation.py)|40 ms|
 |44|[ Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[C++](./solutions/44.%20Wildcard%20Matching.cpp)|116 ms|
 |54|[ Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[C++](./solutions/54.%20Spiral%20Matrix.cpp)|8 ms|
