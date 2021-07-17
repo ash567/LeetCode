@@ -8,12 +8,16 @@
 // Sometimes, if you don't unpack, the program is less readable (specially problematic during interview) and you can make many errors
 ​
 // When you are using a pair element, use typedef pair<int, int> pii
-    
+​
+//Programming errors:
+    // Setting the distance of the new node will be **1** + edge_weight + d[v]
+    // Important Learning: When you had to get infromation at edge level, (number of nodes between edge that are reachable), iterate over edge. This was similar to on dfs question where you had to find out what is the size of maximum component by switching one node from 0 to 1 in a grid
+​
 class Solution {
     const int INF = 1e9;
     
-    void dij(int source, vector<int>& dis, const vector<vector<pair<int, int> > >& edges, int n) {
-        dis.assign(n, INF);
+    void dij(int source, vector<int>& dis, const vector<vector<pair<int, int> > >& edges) {
+        dis.assign(edges.size(), INF);
         // using pii = pair<int, int>;
         set<pair<int, int> > q;
         q.insert({0, source});
@@ -40,26 +44,3 @@ public:
             adj[edge[0]].push_back({edge[1], edge[2]});
             adj[edge[1]].push_back({edge[0], edge[2]});
         }
-        vector<int> dis(n);
-        dij(0, dis, adj, n);
-        int reachCount = 0;
-        for(int i = 0; i < dis.size(); i++) {
-            // cout << dis[i] << '\n';
-            if(dis[i] <= maxMoves) {
-                reachCount++;
-            }
-        }
-        for(const auto& edge : edges) {
-            int subNodes = edge[2];
-            int subNodesReachable = 0;
-            for(int i = 0; i < 2; i++) {
-                int node = edge[i];
-                subNodesReachable += max(0, maxMoves - dis[node]);
-            }
-            subNodesReachable = min(subNodesReachable, subNodes);
-            // cout << edge[0] << " " << edge[1] << ": " << subNodesReachable << endl;
-            reachCount += subNodesReachable;
-        }
-        return reachCount;
-    }
-};
