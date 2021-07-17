@@ -30,6 +30,7 @@
 |722|[ Remove Comments](https://leetcode.com/problems/remove-comments/)|[C++](./solutions/722.%20Remove%20Comments.cpp)|0 ms|
 |732|[ My Calendar III](https://leetcode.com/problems/my-calendar-iii/)|[C++](./solutions/732.%20My%20Calendar%20III.cpp)|976 ms|
 |739|[ Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[C++](./solutions/739.%20Daily%20Temperatures.cpp)|52 ms|
+|743|[ Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[C++](./solutions/743.%20Network%20Delay%20Time.cpp)|100 ms|
 |785|[ Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[C++](./solutions/785.%20Is%20Graph%20Bipartite%3F.cpp)|24 ms|
 |792|[ Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|[C++](./solutions/792.%20Number%20of%20Matching%20Subsequences.cpp)|696 ms|
 |827|[ Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[C++](./solutions/827.%20Making%20A%20Large%20Island.cpp)|700 ms|
