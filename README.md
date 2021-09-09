@@ -25,6 +25,7 @@
 |442|[ Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[C++](./solutions/442.%20Find%20All%20Duplicates%20in%20an%20Array.cpp)|48 ms|
 |452|[ Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[C++](./solutions/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.cpp)|92 ms|
 |529|[ Minesweeper](https://leetcode.com/problems/minesweeper/)|[C++](./solutions/529.%20Minesweeper.cpp)|36 ms|
+|560|[ Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[C++](./solutions/560.%20Subarray%20Sum%20Equals%20K.cpp)|121 ms|
 |562|[ Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/)|[C++](./solutions/562.%20Longest%20Line%20of%20Consecutive%20One%20in%20Matrix.cpp)|116 ms|
 |593|[ Valid Square](https://leetcode.com/problems/valid-square/)|[C++](./solutions/593.%20Valid%20Square.cpp)|4 ms|
 |652|[ Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[C++](./solutions/652.%20Find%20Duplicate%20Subtrees.cpp)|28 ms|
