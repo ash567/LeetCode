@@ -57,6 +57,7 @@
 |1110|[ Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|[C++](./solutions/1110.%20Delete%20Nodes%20And%20Return%20Forest.cpp)|8 ms|
 |1140|[ Stone Game II](https://leetcode.com/problems/stone-game-ii/)|[C++](./solutions/1140.%20Stone%20Game%20II.cpp)|120 ms|
 |1219|[ Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[C++](./solutions/1219.%20Path%20with%20Maximum%20Gold.cpp)|64 ms|
+|1220|[ Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)|[C++](./solutions/1220.%20Count%20Vowels%20Permutation.cpp)|324 ms|
 |1334|[ Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)|[C++](./solutions/1334.%20Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance.cpp)|80 ms|
 |1406|[ Stone Game III](https://leetcode.com/problems/stone-game-iii/)|[C++](./solutions/1406.%20Stone%20Game%20III.cpp)|244 ms|
 |1499|[ Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)|[C++](./solutions/1499.%20Max%20Value%20of%20Equation.cpp)|452 ms|
