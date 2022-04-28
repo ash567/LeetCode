@@ -75,3 +75,4 @@
 |1706|[ Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)|[C++](./solutions/1706.%20Where%20Will%20the%20Ball%20Fall.cpp)|24 ms|
 |1776|[ Car Fleet II](https://leetcode.com/problems/car-fleet-ii/)|[C++](./solutions/1776.%20Car%20Fleet%20II.cpp)|852 ms|
 |1834|[ Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/)|[Python3](./solutions/1834.%20Single-Threaded%20CPU.py)|2000 ms|
+|2251|[ Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/)|[C++](./solutions/2251.%20Number%20of%20Flowers%20in%20Full%20Bloom.cpp)|275 ms|
