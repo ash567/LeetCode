@@ -39,6 +39,7 @@
 |560|[ Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[C++](./solutions/560.%20Subarray%20Sum%20Equals%20K.cpp)|121 ms|
 |562|[ Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/)|[C++](./solutions/562.%20Longest%20Line%20of%20Consecutive%20One%20in%20Matrix.cpp)|116 ms|
 |593|[ Valid Square](https://leetcode.com/problems/valid-square/)|[C++](./solutions/593.%20Valid%20Square.cpp)|4 ms|
+|632|[ Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)|[C++](./solutions/632.%20Smallest%20Range%20Covering%20Elements%20from%20K%20Lists.cpp)|104 ms|
 |652|[ Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[C++](./solutions/652.%20Find%20Duplicate%20Subtrees.cpp)|28 ms|
 |714|[ Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[C++](./solutions/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.cpp)|119 ms|
 |722|[ Remove Comments](https://leetcode.com/problems/remove-comments/)|[C++](./solutions/722.%20Remove%20Comments.cpp)|0 ms|
