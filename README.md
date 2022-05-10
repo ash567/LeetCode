@@ -5,7 +5,7 @@
 |2|[ Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](./solutions/2.%20Add%20Two%20Numbers.cpp)|28 ms|
 |23|[ Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[C++](./solutions/23.%20Merge%20k%20Sorted%20Lists.cpp)|24 ms|
 |31|[ Next Permutation](https://leetcode.com/problems/next-permutation/)|[Python3](./solutions/31.%20Next%20Permutation.py)|40 ms|
-|32|[ Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[C++](./solutions/32.%20Longest%20Valid%20Parentheses.cpp)|6 ms|
+|32|[ Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[C++](./solutions/32.%20Longest%20Valid%20Parentheses.cpp)|4 ms|
 |44|[ Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[C++](./solutions/44.%20Wildcard%20Matching.cpp)|116 ms|
 |54|[ Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[C++](./solutions/54.%20Spiral%20Matrix.cpp)|8 ms|
 |73|[ Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[C++](./solutions/73.%20Set%20Matrix%20Zeroes.cpp)|12 ms|
