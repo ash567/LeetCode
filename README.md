@@ -29,6 +29,7 @@
 |315|[ Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[C++](./solutions/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.cpp)|1012 ms|
 |337|[ House Robber III](https://leetcode.com/problems/house-robber-iii/)|[C++](./solutions/337.%20House%20Robber%20III.cpp)|8 ms|
 |347|[ Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C++](./solutions/347.%20Top%20K%20Frequent%20Elements.cpp)|30 ms|
+|362|[ Design Hit Counter](https://leetcode.com/problems/design-hit-counter/)|[C++](./solutions/362.%20Design%20Hit%20Counter.cpp)|0 ms|
 |394|[ Decode String](https://leetcode.com/problems/decode-string/)|[C++](./solutions/394.%20Decode%20String.cpp)|0 ms|
 |399|[ Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[C++](./solutions/399.%20Evaluate%20Division.cpp)|4 ms|
 |417|[ Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|[C++](./solutions/417.%20Pacific%20Atlantic%20Water%20Flow.cpp)|28 ms|
