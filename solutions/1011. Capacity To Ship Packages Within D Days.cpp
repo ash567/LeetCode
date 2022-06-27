@@ -19,8 +19,7 @@ public:
         long left = 0, right = 0;
         for(int w : weights) {
             right += w;
-        }
-        
+        }
         while(left < right) {
             int mid = left + (right - left)/2;
             if(numDays(weights, mid) <= days) {
