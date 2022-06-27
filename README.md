@@ -76,6 +76,7 @@
 |1192|[ Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)|[C++](./solutions/1192.%20Critical%20Connections%20in%20a%20Network.cpp)|1141 ms|
 |1219|[ Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[C++](./solutions/1219.%20Path%20with%20Maximum%20Gold.cpp)|64 ms|
 |1220|[ Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)|[C++](./solutions/1220.%20Count%20Vowels%20Permutation.cpp)|324 ms|
+|1231|[ Divide Chocolate](https://leetcode.com/problems/divide-chocolate/)|[](./solutions/1231.%20Divide%20Chocolate.)||
 |1269|[ Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/)|[C++](./solutions/1269.%20Number%20of%20Ways%20to%20Stay%20in%20the%20Same%20Place%20After%20Some%20Steps.cpp)|36 ms|
 |1334|[ Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)|[C++](./solutions/1334.%20Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance.cpp)|80 ms|
 |1406|[ Stone Game III](https://leetcode.com/problems/stone-game-iii/)|[C++](./solutions/1406.%20Stone%20Game%20III.cpp)|244 ms|
