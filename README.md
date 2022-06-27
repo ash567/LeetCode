@@ -68,6 +68,7 @@
 |900|[ RLE Iterator](https://leetcode.com/problems/rle-iterator/)|[C++](./solutions/900.%20RLE%20Iterator.cpp)|4 ms|
 |904|[ Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[C++](./solutions/904.%20Fruit%20Into%20Baskets.cpp)|360 ms|
 |994|[ Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[C++](./solutions/994.%20Rotting%20Oranges.cpp)|12 ms|
+|1011|[ Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)|[C++](./solutions/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.cpp)|101 ms|
 |1027|[ Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/)|[C++](./solutions/1027.%20Longest%20Arithmetic%20Subsequence.cpp)|1580 ms|
 |1041|[ Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[C++](./solutions/1041.%20Robot%20Bounded%20In%20Circle.cpp)|0 ms|
 |1110|[ Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|[C++](./solutions/1110.%20Delete%20Nodes%20And%20Return%20Forest.cpp)|8 ms|
