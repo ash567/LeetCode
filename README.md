@@ -64,6 +64,7 @@
 |853|[ Car Fleet](https://leetcode.com/problems/car-fleet/)|[C++](./solutions/853.%20Car%20Fleet.cpp)|44 ms|
 |857|[ Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)|[C++](./solutions/857.%20Minimum%20Cost%20to%20Hire%20K%20Workers.cpp)|88 ms|
 |871|[ Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)|[C++](./solutions/871.%20Minimum%20Number%20of%20Refueling%20Stops.cpp)|16 ms|
+|875|[ Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[C++](./solutions/875.%20Koko%20Eating%20Bananas.cpp)|94 ms|
 |882|[ Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)|[C++](./solutions/882.%20Reachable%20Nodes%20In%20Subdivided%20Graph.cpp)|120 ms|
 |895|[ Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[C++](./solutions/895.%20Maximum%20Frequency%20Stack.cpp)|428 ms|
 |900|[ RLE Iterator](https://leetcode.com/problems/rle-iterator/)|[C++](./solutions/900.%20RLE%20Iterator.cpp)|4 ms|
