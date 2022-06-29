@@ -35,7 +35,7 @@
 |347|[ Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C++](./solutions/347.%20Top%20K%20Frequent%20Elements.cpp)|30 ms|
 |362|[ Design Hit Counter](https://leetcode.com/problems/design-hit-counter/)|[C++](./solutions/362.%20Design%20Hit%20Counter.cpp)|0 ms|
 |373|[ Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)|[C++](./solutions/373.%20Find%20K%20Pairs%20with%20Smallest%20Sums.cpp)|428 ms|
-|378|[ Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[C++](./solutions/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.cpp)|40 ms|
+|378|[ Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[C++](./solutions/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.cpp)|30 ms|
 |394|[ Decode String](https://leetcode.com/problems/decode-string/)|[C++](./solutions/394.%20Decode%20String.cpp)|0 ms|
 |399|[ Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[C++](./solutions/399.%20Evaluate%20Division.cpp)|4 ms|
 |410|[ Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|[C++](./solutions/410.%20Split%20Array%20Largest%20Sum.cpp)|4 ms|
