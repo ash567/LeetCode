@@ -83,6 +83,7 @@
 |1283|[ Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)|[C++](./solutions/1283.%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold.cpp)|57 ms|
 |1334|[ Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)|[C++](./solutions/1334.%20Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance.cpp)|80 ms|
 |1406|[ Stone Game III](https://leetcode.com/problems/stone-game-iii/)|[C++](./solutions/1406.%20Stone%20Game%20III.cpp)|244 ms|
+|1482|[ Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)|[C++](./solutions/1482.%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets.cpp)|204 ms|
 |1499|[ Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)|[C++](./solutions/1499.%20Max%20Value%20of%20Equation.cpp)|452 ms|
 |1509|[ Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/)|[C++](./solutions/1509.%20Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves.cpp)|100 ms|
 |1525|[ Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/)|[C++](./solutions/1525.%20Number%20of%20Good%20Ways%20to%20Split%20a%20String.cpp)|20 ms|
